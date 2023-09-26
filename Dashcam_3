@@ -1,0 +1,2 @@
+It is possible to use TF_Lite on a video feed, but battery life is terrible unless a powerbank is used. Tf_Lite is an interesting use case for small datatsets for common objects such as on roadways or construction sites. 
+At 30 percent mAp you will find success. You must use Autofocus cameras to find success at 30 mAp. Keras is the easiest to debug, but you are welcomed to use OpenCV. I would like it to be used for driver's ed. 
