@@ -1,0 +1,20 @@
+#Use Rasberry Pi 4 GB
+Install Raspiban
+Add Touchscreen
+Add gnome package cheese 
+use 2 webcams with autofocus
+Change webcams as you Turn
+#Is very successful
+
+apt-get update
+apt-get upgrade
+apt-get install cheese
+clear
+in Ba$h
+cheese
+enjoy your 7 inch dashcam
+
+
+Code comes with no warranty
+I am not responsibile for misuse of this code
+If you follow this script you agree to these terms
